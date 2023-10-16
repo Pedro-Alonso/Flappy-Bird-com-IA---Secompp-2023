@@ -1,8 +1,9 @@
 # Flappy Bird com IA
 
 Este projeto, implementado em Python com o auxílio das bibliotecas pygame e neat, foi desenvolvido na Semana da Computação (Secompp) da Unesp FCT, durante o minicurso Flappy Bird com IA (25-26/09/2023).  
-Ele consiste em recriar o famoso jogo "Flappy Bird", porém, com a adição de uma inteligência artificial que aprende a jogar da melhor forma possível. Para o game, a biblioteca pygame foi utilizada. Para a IA, a lib neat-python.  
-<img src="screenshot5.png" alt="Game preview"
+Ele consiste em recriar o famoso jogo "Flappy Bird", porém, com a adição de uma inteligência artificial que aprende a jogar da melhor forma possível. Para o game, a biblioteca pygame foi utilizada. Para a IA, a lib neat-python.
+
+<img src="screenshots/screenshot5.png" alt="Game preview"
 style="height: 300px">
 
 ## Projeto base
@@ -37,7 +38,7 @@ Os comandos são:
 - Seta para baixo - abaixa a velocidade do game
 - Esc - fechar
 
-<img src="screenshot1.png" alt="Flappy Bird com IA - final"
+<img src="screenshots/screenshot1.png" alt="Flappy Bird com IA - final"
 style="height: 300px">
 ***
 </details>
@@ -48,7 +49,8 @@ style="height: 300px">
 ### Flappy AI only
 
 Esta versão é semelhante à versão final (com todos os indicadores na tela, comandos extras etc.), porém, sem a possibilidade do usuário jogar simultaneamente. Aqui a IA joga sozinha.  
-<img src="screenshot2.png" alt="Flappy Bird - AI only"
+
+<img src="screenshots/screenshot2.png" alt="Flappy Bird - AI only"
 style="height: 300px">
 ***
 </details>
@@ -59,7 +61,8 @@ style="height: 300px">
 ### Flappy Player only
 
 Analogamente à versão AI only, aqui apenas o usuário joga. A diferença é que esta versão é a mais próxima do jogo original, em que não há comandos extras (apenas Esc para fechar) ou indicadores além da pontuação atual, e os canos são estáticos.  
-<img src="screenshot3.png" alt="Flappy Bird - Player only"
+
+<img src="screenshots/screenshot3.png" alt="Flappy Bird - Player only"
 style="height: 300px">
 ***
 </details>
@@ -70,7 +73,8 @@ style="height: 300px">
 ### Flappy base
 
 Esta é a versão implementada originalmente no curso. Nela, não há comandos para o jogador, apenas se vê a IA tentando achar a melhor forma de passar pelos canos geração após geração.  
-<img src="screenshot4.png" alt="Flappy Bird com IA - base"
+
+<img src="screenshots/screenshot4.png" alt="Flappy Bird com IA - base"
 style="height: 300px">
 ***
 </details>
