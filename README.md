@@ -22,7 +22,7 @@ Partindo disso, eu decidi incrementar algumas coisas:
 
 ## Sobre o jogo
 
-Para jogar, basta executar o arquivo flappy.py da versão de seu interesse. As seguintes versões estão nese repositório:
+Para jogar, basta executar o arquivo flappy.py da versão de seu interesse. As seguintes versões estão neste repositório:
 
 <details>
     <summary>Flappy Bird com IA</summary>
